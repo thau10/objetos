@@ -6,4 +6,4 @@ const objetoPessoa ={
 
 }
 
-console.log( objetoPessoa)
+console.log( `O nome do cliente é ${objetoPessoa.nome} e sua idade é  ${ objetoPesoa.idade} anos`)

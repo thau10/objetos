@@ -1,3 +1,4 @@
+const informacoesPessoa = ["nome", "Thauane","idade","17","CPF"," 679234123142"];
 const objetoPessoa ={
     nome: "Thauane",
     idade: 17,
@@ -5,5 +6,3 @@ const objetoPessoa ={
     email:"thauane.lourenco@escola.pr.gov.br",
 
 }
-
-console.log( objetoPessoa)
